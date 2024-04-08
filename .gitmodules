@@ -1,0 +1,3 @@
+[submodule "fs-watch-rs"]
+	path = fs-watch-rs
+	url = https://github.com/ghashy/fs-watch-rs
